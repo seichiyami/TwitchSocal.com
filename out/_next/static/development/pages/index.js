@@ -11760,21 +11760,14 @@ var Home = function Home() {
       lineNumber: 15
     },
     __self: this
-  }, "Welcome to Next.js!"), __jsx("p", {
+  }, "Twitch Socal"), __jsx("p", {
     className: "jsx-243749409" + " " + 'description',
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
     },
     __self: this
-  }, "To get started, edit ", __jsx("code", {
-    className: "jsx-243749409",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: this
-  }, "pages/index.js"), " and save to reload."), __jsx("div", {
+  }, "We're the meetup grou for Twitch in Southern California"), __jsx("div", {
     className: "jsx-243749409" + " " + 'row',
     __source: {
       fileName: _jsxFileName,
@@ -11782,7 +11775,7 @@ var Home = function Home() {
     },
     __self: this
   }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    href: "https://github.com/zeit/next.js#setup",
+    href: "https://meetups.twitch.tv/los-angeles/",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 21
@@ -11802,7 +11795,7 @@ var Home = function Home() {
       lineNumber: 23
     },
     __self: this
-  }, "Getting Started \u2192"), __jsx("p", {
+  }, "LA \u2192"), __jsx("p", {
     className: "jsx-243749409",
     __source: {
       fileName: _jsxFileName,
@@ -11810,7 +11803,7 @@ var Home = function Home() {
     },
     __self: this
   }, "Learn more about Next.js on GitHub and in their examples."))), __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    href: "https://github.com/zeit/next.js/tree/master/examples",
+    href: "https://meetups.twitch.tv/ocstreamers/",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 27
@@ -11830,7 +11823,7 @@ var Home = function Home() {
       lineNumber: 29
     },
     __self: this
-  }, "Examples \u2192"), __jsx("p", {
+  }, "OCStreamers \u2192"), __jsx("p", {
     className: "jsx-243749409",
     __source: {
       fileName: _jsxFileName,
@@ -11838,7 +11831,7 @@ var Home = function Home() {
     },
     __self: this
   }, "Find other example boilerplates on the Next.js GitHub."))), __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    href: "https://github.com/zeit/next.js",
+    href: "https://meetups.twitch.tv/san-diego/",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33
@@ -11858,7 +11851,7 @@ var Home = function Home() {
       lineNumber: 35
     },
     __self: this
-  }, "Create Next App \u2192"), __jsx("p", {
+  }, "SD \u2192"), __jsx("p", {
     className: "jsx-243749409",
     __source: {
       fileName: _jsxFileName,
@@ -11868,7 +11861,7 @@ var Home = function Home() {
   }, "Was this tool helpful? Let us know how we can improve it!"))))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "243749409",
     __self: this
-  }, ".hero.jsx-243749409{width:100%;color:#333;}.title.jsx-243749409{margin:0;width:100%;padding-top:80px;line-height:1.15;font-size:48px;}.title.jsx-243749409,.description.jsx-243749409{text-align:center;}.row.jsx-243749409{max-width:880px;margin:80px auto 40px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;}.card.jsx-243749409{padding:18px 18px 24px;width:220px;text-align:left;-webkit-text-decoration:none;text-decoration:none;color:#434343;border:1px solid #9b9b9b;}.card.jsx-243749409:hover{border-color:#067df7;}.card.jsx-243749409 h3.jsx-243749409{margin:0;color:#067df7;font-size:18px;}.card.jsx-243749409 p.jsx-243749409{margin:0;padding:12px 0 0;font-size:13px;color:#333;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcaHVlYmVcXG15LWZpcnN0LWFwcFxccGFnZXNcXGluZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQXlDZ0IsQUFHb0IsQUFJRixBQVFTLEFBR0YsQUFPTyxBQVFGLEFBR1osQUFLQSxTQWpDRSxBQTZCRyxBQUtHLEVBdENOLEtBZVcsRUFIeEIsRUFQbUIsQ0F5Qm5CLENBN0JBLENBcUJjLEFBWUcsR0FLQSxTQWhCQyxFQWpCQyxDQVVKLEFBbUJmLEdBS2EsVUFoQlUsQ0FpQnZCLEVBbENpQixlQUNqQixnQ0FpQmdCLFdBUkssR0FTTSx5QkFDM0IseUNBVCtCLDJIQUMvQiIsImZpbGUiOiJDOlxcVXNlcnNcXGh1ZWJlXFxteS1maXJzdC1hcHBcXHBhZ2VzXFxpbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCdcbmltcG9ydCBMaW5rIGZyb20gJ25leHQvbGluaydcbmltcG9ydCBIZWFkIGZyb20gJ25leHQvaGVhZCdcbmltcG9ydCBOYXYgZnJvbSAnLi4vY29tcG9uZW50cy9uYXYnXG5cbmNvbnN0IEhvbWUgPSAoKSA9PiAoXG4gIDxkaXY+XG4gICAgPEhlYWQ+XG4gICAgICA8dGl0bGU+SG9tZTwvdGl0bGU+XG4gICAgPC9IZWFkPlxuXG4gICAgPE5hdiAvPlxuXG4gICAgPGRpdiBjbGFzc05hbWU9J2hlcm8nPlxuICAgICAgPGgxIGNsYXNzTmFtZT0ndGl0bGUnPldlbGNvbWUgdG8gTmV4dC5qcyE8L2gxPlxuICAgICAgPHAgY2xhc3NOYW1lPSdkZXNjcmlwdGlvbic+XG4gICAgICAgIFRvIGdldCBzdGFydGVkLCBlZGl0IDxjb2RlPnBhZ2VzL2luZGV4LmpzPC9jb2RlPiBhbmQgc2F2ZSB0byByZWxvYWQuXG4gICAgICA8L3A+XG5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPSdyb3cnPlxuICAgICAgICA8TGluayBocmVmPSdodHRwczovL2dpdGh1Yi5jb20vemVpdC9uZXh0LmpzI3NldHVwJz5cbiAgICAgICAgICA8YSBjbGFzc05hbWU9J2NhcmQnPlxuICAgICAgICAgICAgPGgzPkdldHRpbmcgU3RhcnRlZCAmcmFycjs8L2gzPlxuICAgICAgICAgICAgPHA+TGVhcm4gbW9yZSBhYm91dCBOZXh0LmpzIG9uIEdpdEh1YiBhbmQgaW4gdGhlaXIgZXhhbXBsZXMuPC9wPlxuICAgICAgICAgIDwvYT5cbiAgICAgICAgPC9MaW5rPlxuICAgICAgICA8TGluayBocmVmPSdodHRwczovL2dpdGh1Yi5jb20vemVpdC9uZXh0LmpzL3RyZWUvbWFzdGVyL2V4YW1wbGVzJz5cbiAgICAgICAgICA8YSBjbGFzc05hbWU9J2NhcmQnPlxuICAgICAgICAgICAgPGgzPkV4YW1wbGVzICZyYXJyOzwvaDM+XG4gICAgICAgICAgICA8cD5GaW5kIG90aGVyIGV4YW1wbGUgYm9pbGVycGxhdGVzIG9uIHRoZSBOZXh0LmpzIEdpdEh1Yi48L3A+XG4gICAgICAgICAgPC9hPlxuICAgICAgICA8L0xpbms+XG4gICAgICAgIDxMaW5rIGhyZWY9J2h0dHBzOi8vZ2l0aHViLmNvbS96ZWl0L25leHQuanMnPlxuICAgICAgICAgIDxhIGNsYXNzTmFtZT0nY2FyZCc+XG4gICAgICAgICAgICA8aDM+Q3JlYXRlIE5leHQgQXBwICZyYXJyOzwvaDM+XG4gICAgICAgICAgICA8cD5XYXMgdGhpcyB0b29sIGhlbHBmdWw/IExldCB1cyBrbm93IGhvdyB3ZSBjYW4gaW1wcm92ZSBpdCE8L3A+XG4gICAgICAgICAgPC9hPlxuICAgICAgICA8L0xpbms+XG4gICAgICA8L2Rpdj5cbiAgICA8L2Rpdj5cblxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIC5oZXJvIHtcbiAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgIGNvbG9yOiAjMzMzO1xuICAgICAgfVxuICAgICAgLnRpdGxlIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgcGFkZGluZy10b3A6IDgwcHg7XG4gICAgICAgIGxpbmUtaGVpZ2h0OiAxLjE1O1xuICAgICAgICBmb250LXNpemU6IDQ4cHg7XG4gICAgICB9XG4gICAgICAudGl0bGUsXG4gICAgICAuZGVzY3JpcHRpb24ge1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICB9XG4gICAgICAucm93IHtcbiAgICAgICAgbWF4LXdpZHRoOiA4ODBweDtcbiAgICAgICAgbWFyZ2luOiA4MHB4IGF1dG8gNDBweDtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgZmxleC1kaXJlY3Rpb246IHJvdztcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1hcm91bmQ7XG4gICAgICB9XG4gICAgICAuY2FyZCB7XG4gICAgICAgIHBhZGRpbmc6IDE4cHggMThweCAyNHB4O1xuICAgICAgICB3aWR0aDogMjIwcHg7XG4gICAgICAgIHRleHQtYWxpZ246IGxlZnQ7XG4gICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgICAgY29sb3I6ICM0MzQzNDM7XG4gICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICM5YjliOWI7XG4gICAgICB9XG4gICAgICAuY2FyZDpob3ZlciB7XG4gICAgICAgIGJvcmRlci1jb2xvcjogIzA2N2RmNztcbiAgICAgIH1cbiAgICAgIC5jYXJkIGgzIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBjb2xvcjogIzA2N2RmNztcbiAgICAgICAgZm9udC1zaXplOiAxOHB4O1xuICAgICAgfVxuICAgICAgLmNhcmQgcCB7XG4gICAgICAgIG1hcmdpbjogMDtcbiAgICAgICAgcGFkZGluZzogMTJweCAwIDA7XG4gICAgICAgIGZvbnQtc2l6ZTogMTNweDtcbiAgICAgICAgY29sb3I6ICMzMzM7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L2Rpdj5cbilcblxuZXhwb3J0IGRlZmF1bHQgSG9tZVxuIl19 */\n/*@ sourceURL=C:\\Users\\huebe\\my-first-app\\pages\\index.js */"));
+  }, ".hero.jsx-243749409{width:100%;color:#333;}.title.jsx-243749409{margin:0;width:100%;padding-top:80px;line-height:1.15;font-size:48px;}.title.jsx-243749409,.description.jsx-243749409{text-align:center;}.row.jsx-243749409{max-width:880px;margin:80px auto 40px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;}.card.jsx-243749409{padding:18px 18px 24px;width:220px;text-align:left;-webkit-text-decoration:none;text-decoration:none;color:#434343;border:1px solid #9b9b9b;}.card.jsx-243749409:hover{border-color:#067df7;}.card.jsx-243749409 h3.jsx-243749409{margin:0;color:#067df7;font-size:18px;}.card.jsx-243749409 p.jsx-243749409{margin:0;padding:12px 0 0;font-size:13px;color:#333;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcaHVlYmVcXG15LWZpcnN0LWFwcFxccGFnZXNcXGluZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQXlDZ0IsQUFHb0IsQUFJRixBQVFTLEFBR0YsQUFPTyxBQVFGLEFBR1osQUFLQSxTQWpDRSxBQTZCRyxBQUtHLEVBdENOLEtBZVcsRUFIeEIsRUFQbUIsQ0F5Qm5CLENBN0JBLENBcUJjLEFBWUcsR0FLQSxTQWhCQyxFQWpCQyxDQVVKLEFBbUJmLEdBS2EsVUFoQlUsQ0FpQnZCLEVBbENpQixlQUNqQixnQ0FpQmdCLFdBUkssR0FTTSx5QkFDM0IseUNBVCtCLDJIQUMvQiIsImZpbGUiOiJDOlxcVXNlcnNcXGh1ZWJlXFxteS1maXJzdC1hcHBcXHBhZ2VzXFxpbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCdcbmltcG9ydCBMaW5rIGZyb20gJ25leHQvbGluaydcbmltcG9ydCBIZWFkIGZyb20gJ25leHQvaGVhZCdcbmltcG9ydCBOYXYgZnJvbSAnLi4vY29tcG9uZW50cy9uYXYnXG5cbmNvbnN0IEhvbWUgPSAoKSA9PiAoXG4gIDxkaXY+XG4gICAgPEhlYWQ+XG4gICAgICA8dGl0bGU+SG9tZTwvdGl0bGU+XG4gICAgPC9IZWFkPlxuXG4gICAgPE5hdiAvPlxuXG4gICAgPGRpdiBjbGFzc05hbWU9J2hlcm8nPlxuICAgICAgPGgxIGNsYXNzTmFtZT0ndGl0bGUnPlR3aXRjaCBTb2NhbDwvaDE+XG4gICAgICA8cCBjbGFzc05hbWU9J2Rlc2NyaXB0aW9uJz5cbiAgICAgICAgV2UncmUgdGhlIG1lZXR1cCBncm91IGZvciBUd2l0Y2ggaW4gU291dGhlcm4gQ2FsaWZvcm5pYVxuICAgICAgPC9wPlxuXG4gICAgICA8ZGl2IGNsYXNzTmFtZT0ncm93Jz5cbiAgICAgICAgPExpbmsgaHJlZj0naHR0cHM6Ly9tZWV0dXBzLnR3aXRjaC50di9sb3MtYW5nZWxlcy8nPlxuICAgICAgICAgIDxhIGNsYXNzTmFtZT0nY2FyZCc+XG4gICAgICAgICAgICA8aDM+TEEgJnJhcnI7PC9oMz5cbiAgICAgICAgICAgIDxwPkxlYXJuIG1vcmUgYWJvdXQgTmV4dC5qcyBvbiBHaXRIdWIgYW5kIGluIHRoZWlyIGV4YW1wbGVzLjwvcD5cbiAgICAgICAgICA8L2E+XG4gICAgICAgIDwvTGluaz5cbiAgICAgICAgPExpbmsgaHJlZj0naHR0cHM6Ly9tZWV0dXBzLnR3aXRjaC50di9vY3N0cmVhbWVycy8nPlxuICAgICAgICAgIDxhIGNsYXNzTmFtZT0nY2FyZCc+XG4gICAgICAgICAgICA8aDM+T0NTdHJlYW1lcnMgJnJhcnI7PC9oMz5cbiAgICAgICAgICAgIDxwPkZpbmQgb3RoZXIgZXhhbXBsZSBib2lsZXJwbGF0ZXMgb24gdGhlIE5leHQuanMgR2l0SHViLjwvcD5cbiAgICAgICAgICA8L2E+XG4gICAgICAgIDwvTGluaz5cbiAgICAgICAgPExpbmsgaHJlZj0naHR0cHM6Ly9tZWV0dXBzLnR3aXRjaC50di9zYW4tZGllZ28vJz5cbiAgICAgICAgICA8YSBjbGFzc05hbWU9J2NhcmQnPlxuICAgICAgICAgICAgPGgzPlNEICZyYXJyOzwvaDM+XG4gICAgICAgICAgICA8cD5XYXMgdGhpcyB0b29sIGhlbHBmdWw/IExldCB1cyBrbm93IGhvdyB3ZSBjYW4gaW1wcm92ZSBpdCE8L3A+XG4gICAgICAgICAgPC9hPlxuICAgICAgICA8L0xpbms+XG4gICAgICA8L2Rpdj5cbiAgICA8L2Rpdj5cblxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIC5oZXJvIHtcbiAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgIGNvbG9yOiAjMzMzO1xuICAgICAgfVxuICAgICAgLnRpdGxlIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgcGFkZGluZy10b3A6IDgwcHg7XG4gICAgICAgIGxpbmUtaGVpZ2h0OiAxLjE1O1xuICAgICAgICBmb250LXNpemU6IDQ4cHg7XG4gICAgICB9XG4gICAgICAudGl0bGUsXG4gICAgICAuZGVzY3JpcHRpb24ge1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICB9XG4gICAgICAucm93IHtcbiAgICAgICAgbWF4LXdpZHRoOiA4ODBweDtcbiAgICAgICAgbWFyZ2luOiA4MHB4IGF1dG8gNDBweDtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgZmxleC1kaXJlY3Rpb246IHJvdztcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1hcm91bmQ7XG4gICAgICB9XG4gICAgICAuY2FyZCB7XG4gICAgICAgIHBhZGRpbmc6IDE4cHggMThweCAyNHB4O1xuICAgICAgICB3aWR0aDogMjIwcHg7XG4gICAgICAgIHRleHQtYWxpZ246IGxlZnQ7XG4gICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgICAgY29sb3I6ICM0MzQzNDM7XG4gICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICM5YjliOWI7XG4gICAgICB9XG4gICAgICAuY2FyZDpob3ZlciB7XG4gICAgICAgIGJvcmRlci1jb2xvcjogIzA2N2RmNztcbiAgICAgIH1cbiAgICAgIC5jYXJkIGgzIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBjb2xvcjogIzA2N2RmNztcbiAgICAgICAgZm9udC1zaXplOiAxOHB4O1xuICAgICAgfVxuICAgICAgLmNhcmQgcCB7XG4gICAgICAgIG1hcmdpbjogMDtcbiAgICAgICAgcGFkZGluZzogMTJweCAwIDA7XG4gICAgICAgIGZvbnQtc2l6ZTogMTNweDtcbiAgICAgICAgY29sb3I6ICMzMzM7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L2Rpdj5cbilcblxuZXhwb3J0IGRlZmF1bHQgSG9tZVxuIl19 */\n/*@ sourceURL=C:\\Users\\huebe\\my-first-app\\pages\\index.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);
