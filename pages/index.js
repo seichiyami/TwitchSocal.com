@@ -12,27 +12,27 @@ const Home = () => (
     <Nav />
 
     <div className='hero'>
-      <h1 className='title'>Welcome to Next.js!</h1>
+      <h1 className='title'>Twitch Socal</h1>
       <p className='description'>
-        To get started, edit <code>pages/index.js</code> and save to reload.
+        We're the meetup grou for Twitch in Southern California
       </p>
 
       <div className='row'>
-        <Link href='https://github.com/zeit/next.js#setup'>
+        <Link href='https://meetups.twitch.tv/los-angeles/'>
           <a className='card'>
-            <h3>Getting Started &rarr;</h3>
+            <h3>LA &rarr;</h3>
             <p>Learn more about Next.js on GitHub and in their examples.</p>
           </a>
         </Link>
-        <Link href='https://github.com/zeit/next.js/tree/master/examples'>
+        <Link href='https://meetups.twitch.tv/ocstreamers/'>
           <a className='card'>
-            <h3>Examples &rarr;</h3>
+            <h3>OCStreamers &rarr;</h3>
             <p>Find other example boilerplates on the Next.js GitHub.</p>
           </a>
         </Link>
-        <Link href='https://github.com/zeit/next.js'>
+        <Link href='https://meetups.twitch.tv/san-diego/'>
           <a className='card'>
-            <h3>Create Next App &rarr;</h3>
+            <h3>SD &rarr;</h3>
             <p>Was this tool helpful? Let us know how we can improve it!</p>
           </a>
         </Link>
